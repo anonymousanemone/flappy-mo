@@ -1,2 +1,2 @@
 # flappy-mo
-Mo the hawk rip off of flappy bird
+Mo-the-Hawk rip-off of flappy bird.
