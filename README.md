@@ -5,4 +5,4 @@ Background art by me
 Mo-the-Hawk by my friend
 Drawn on MediBangPangPro
 
-This is my beginner Processing mini game. I followed [a tutorial](https://www.youtube.com/watch?v=UIlzIwqmOYE) on Youtube by gaspar coding.
+This is my beginner Processing mini game. Inspired by [a tutorial](https://www.youtube.com/watch?v=UIlzIwqmOYE) on Youtube by gaspar coding.
